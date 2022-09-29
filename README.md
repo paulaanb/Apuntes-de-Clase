@@ -1,4 +1,4 @@
-# Ironhack![process](https://github.com/Ironhack-Data-Madrid-Agosto-2022/Apuntes-de-clase/blob/main/images/process.jpg)
+# Ironhack![process](https://github.com/Ironhack-UAX-Bootcamp-Oct-22/Ironhack/blob/main/process.jpg)
 
 # Calendario de clase:
 
