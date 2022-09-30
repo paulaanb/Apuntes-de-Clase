@@ -1,4 +1,4 @@
-# Ironhack![process](https://github.com/Ironhack-UAX-Bootcamp-Oct-22/Ironhack/blob/main/process.jpg)
+# Ironhack![process](https://github.com/Ironhack-UAX-Bootcamp-Oct-22/Ironhack/blob/main/src/process.jpg)
 
 # Calendario de clase:
 
