@@ -20,8 +20,8 @@ class Soldier:
 # Viking
 
 
-class Viking:
-    pass
+class Viking(Soldier):
+    
 
 # Saxon
 
